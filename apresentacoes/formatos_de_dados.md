@@ -1,6 +1,8 @@
-## Formatos de dados e Ferramentas
+## Formatos de dados
 
-### Dados tabulares: método de organização de dados principalmente em colunas e linhas, onde tipicamente cada coluna tem um valor correspondente na linha. É o que você organiza num Excel, por exemplo. É utilizado para preparar visualização, analisar pequenos volumes de dados (com menos colunas) e organizar dados para "subir" em um banco de dados mais robustos, por exemplo.
+### Dados tabulares
+
+método de organização de dados principalmente em colunas e linhas, onde tipicamente cada coluna tem um valor correspondente na linha. É o que você organiza num Excel, por exemplo. É utilizado para preparar visualização, analisar pequenos volumes de dados (com menos colunas) e organizar dados para "subir" em um banco de dados mais robustos, por exemplo.
 
    * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) - Comma-separated values - [Exemplo](https://raw.githubusercontent.com/voltdatalab/graficos/gh-pages/dados/Pedaladas%20fiscais%20na%20Caixa_fonte%20TCU%20com%20dados%20da%20Caixa.csv)
    * [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) -  [Tab-separated values](https://raw.githubusercontent.com/voltdatalab/dados/master/meio-ambiente/dadosbarragensmineracao.tsv)
