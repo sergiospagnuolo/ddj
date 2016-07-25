@@ -27,28 +27,33 @@
 * [Farra do Fies](http://blog.estadaodados.com/fies/) - Estadão Dados
 
 * [Dados do Panama Papers](https://panamapapers.icij.org/) - ICIJ
+
 ![Panama Papers](https://pbs.twimg.com/media/CfIvnASXEAA-aYU.jpg)
 
 * [NSA Files](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1) - Guardian
 
 * [Dívida com fornecedores mais do que dobrou em sete Estados](http://www1.folha.uol.com.br/mercado/2016/07/1790395-divida-mais-do-que-dobrou-em-7-estados.shtml) - Folha de S. Paulo
+
 ![Gráfico Folha de S.Paulo](http://f.i.uol.com.br/folha/mercado/images/16192263.jpeg)
 
 ### Grandes reportagens em prosa a partir de dados
 
 * [A História do Sumo](http://fivethirtyeight.com/features/the-sumo-matchup-centuries-in-the-making/) - FiveThirtyEight
+
 ![538 graphic](http://i1.wp.com/espnfivethirtyeight.files.wordpress.com/2016/05/sumo-interactive-crop-big.png?quality=90&strip=all&w=1024&ssl=1)
 
 * [The state of gun violence in the US, explained in 18 charts](https://www.youtube.com/watch?v=bX4qUsgHa4Y) - Vox
+
 ![Vox graphic](http://14544-presscdn-0-64.pagely.netdna-cdn.com/wp-content/uploads/2016/02/Vox-charts.jpg)
 
 ### Gráficos informativos 
 
 * Preço do Feijão - Volt Data Lab
+
 ![Grafico feijao](https://pbs.twimg.com/media/CnFqSbtXYAAw-jH.jpg)
 
 * Pessoas mortas por terroristas na Europa Ocidental - [Our World in Data](https://ourworldindata.org/)
-[Grafico Our World in Data](https://pbs.twimg.com/media/CoOOikZWAAABrVV.png:large)
+![Grafico Our World in Data](https://pbs.twimg.com/media/CoOOikZWAAABrVV.png:large)
 
 ---
 
@@ -64,4 +69,5 @@
 ### Resultado 
 
 * [Dilma pedalou 35 vezes mais do que FHC e Lula juntos](https://medium.aosfatos.org/dilma-pedalou-35-vezes-mais-que-lula-e-fhc-juntos-aee888dd1880#.wcn0wz9dq) - Aos Fatos
+
 ![Grafico Pedaladas - Aos Fatos](https://d262ilb51hltx0.cloudfront.net/max/1200/1*q9NmtLmuq9Cpec9LdgW_5w.png)
