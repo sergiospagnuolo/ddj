@@ -2,11 +2,19 @@
 
 > ### *"Jornalismo de dados é uma especialidade do jornalismo que reflete o papel mais constante que dados numéricos são utilizados na produção e distribuição de informação na era digital. Ele reflete a maior interação entre produtores de conteúdo (Jornalistas) e diversos outros campos como design, ciência da computação e estatística."* - [Wikipedia](https://en.wikipedia.org/wiki/Data_journalism)
 
+---
+
 > ### *"O conceito de 'jornalismo de dados', do jeito que eu o enxergo, é aplicar o método científico ao noticiário"* - [Nate Silver, FiveThirtyEight](http://fivethirtyeight.com/features/how-i-acted-like-a-pundit-and-screwed-up-on-donald-trump/)
+
+---
 
 > ### *"O que torna o jornalismo de dados diferente do resto do jornalismo? Talvez seja as novas possibilidades que se abrem quando você combina o tradicional 'faro jornalístico' com a habilidade de contar histórias atraentes, com a grande escala e latitude da informação digital agora disponível"* - [Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/introduction_0.html)
 
+---
+
 ### [Vídeo News Lab](https://www.youtube.com/watch?v=TA_tNh0LMEs)
+
+---
 
 ### **Da cartilha do Volt:** Jornalismo de dados, ou melhor, jornalismo orientado por dados é um método jornalístico cuja apuração é fundamentada mais em dados quantitativos, com rigor do método científico, do que em prosa ou fontes qualitativas.
 
