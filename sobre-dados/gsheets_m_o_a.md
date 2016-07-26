@@ -73,3 +73,5 @@ ___
 	* Acontece que há anos menores que os outros, como 2000 e 2015. Vamos então cortar fora 2000 e dar o perdão da nossa senhora da licença poética para 2015, já que só falta um mês pra completar esse ano. Mas, antes de cortar, duplique a tabela, você pode querer comparar OCDE e BRIC por mês. 
 	* Faça uma tabela dinâmica simples comparando os dois períodos completos, e, inclusive, fazer aquele processo de transformar os países em colunas, mas dessa vez sem CTRL C + V, apenas na tabela dinâmica.
 	* Faça uma tabela dinâmica comparando, agora, os anos.
+
+	[Gabarito](https://docs.google.com/spreadsheets/d/1izD5mC5R4mj_ZmxstPfVov3j4F10UelWy0_lixjzcZU/edit?usp=sharing)
