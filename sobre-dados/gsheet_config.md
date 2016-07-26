@@ -13,7 +13,7 @@ Configure o formato (mundial ou norte-americano): `File -> Spreadsheet Settings 
 ### Maior segredo do Google Sheets
 
 * Formatação condicional que faz zebra nas linhas
-	* `Format -> Conditional Formatting -> Format cells if -> Custom Formula is -> *=ISEVEN(ROW())*`
+	* `Format -> Conditional Formatting -> Format cells if -> Custom Formula is -> =ISEVEN(ROW())`
 
 ### Principais fórmulas
 
