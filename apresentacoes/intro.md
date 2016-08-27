@@ -20,7 +20,7 @@
 
 ---
 
-## Relavância
+## Relevância
 
 ### Grandes furos vieram de de dados
 
